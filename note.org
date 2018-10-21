@@ -4,3 +4,21 @@
 ***  “this is string."
 *** "this is alone a string."
 **** 双引号单引号都是一样的
+*** 
+** git
+*** git add *
+**** 
+*** git status
+**** 
+*** git commit * -m 'Update'
+**** 
+*** git push
+**** 
+*** git pull
+**** 
+*** 
+** Org文件
+*** M-Enter
+**** 
+*** M-左右
+**** 
