@@ -1,4 +1,5 @@
-message = "我怎么这么帅！“
+# coding=utf-8
+message = "我怎么这么帅！"
 print(message)
 message = "我賊鸡儿帅！"
 print(message)

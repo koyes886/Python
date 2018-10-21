@@ -1,5 +1,6 @@
 * 
 ** 字符串
-说明中单引号和双引号的演示为
-“this is string."
-'this is alone a string."
+*** 说明中单引号和双引号的演示为
+***  “this is string."
+*** "this is alone a string."
+**** 双引号单引号都是一样的
