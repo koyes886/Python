@@ -1,0 +1,5 @@
+* 
+** 字符串
+说明中单引号和双引号的演示为
+“this is string."
+'this is alone a string."
